@@ -63,4 +63,4 @@ jobs:
           app-name: 'appba'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C89909073811436F9FDB0B379BF3DC6A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1F0F50270BD34C008A960DC7EC3E4854 }}
